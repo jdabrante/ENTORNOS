@@ -64,5 +64,13 @@ Donde “*” será la versión que se quiera instalar.
 En este caso se instalará la versión 11, seguida de la 9 y por último la 8 (esta última será la que en este caso en concreto se dejará instalada).
 Así pues en las siguientes imágenes se recoge cada una de las instalaciones.
 
+![Figura.10.Instalación de Java 11. [Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/7..png)
 
+![Figura.11. Instalación de Java 9.[Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/8..png)
+
+![Figura.12. Instalación de Java 8.[Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/9..png)
+
+Se puede apreciar como en la instalación de Java 9 se produce un error (se resalta con una “E” roja en la figura 11). Esto es debido a que ya no presenta soporte esta versión.
+
+No obstante, aunque se ha instalado correctamente la versión 8 de Java, al introducir el comando java --version , seguirá apareciendo la versión 11 como bien se observa en la siguiente imagen.
 
