@@ -48,6 +48,21 @@ Terminada la actualización, se podrá proceder a la instalación de Java a trav
 
 Una vez hecho esto se habrá instalado la versión por defecto de java, es decir, la última versión. Esto se podrá comprobar con el siguiente comando (Fig. 9), observando así además en la siguiente figura que la última en ese caso es la 11.0.11:
 
+![Figura.9. Ventana del terminal con comando para comprobar la versión de java.[Elaboración propia].
+](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/java-version)
+
+Hay que tener en cuenta el hecho de que algunos comandos  pedirán la contraseña del usuario, por lo que es muy importante recordar esta.
+
+## 2.2 Instalación de una versión específica de Java
+
+Una vez instalado Java y comprobada la versión (11.0.11 en este caso), será necesario conocer cómo instalar otras versiones del mismo. Para ello se utilizará el comando:
+
+**<p align="center"> sudo apt install openjdk-*-jdk </p>**
+
+Donde “*” será la versión que se quiera instalar.
+
+En este caso se instalará la versión 11, seguida de la 9 y por último la 8 (esta última será la que en este caso en concreto se dejará instalada).
+Así pues en las siguientes imágenes se recoge cada una de las instalaciones.
 
 
 
