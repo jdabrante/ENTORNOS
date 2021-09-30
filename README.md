@@ -22,7 +22,8 @@ Así pues una vez terminado este paso comenzaría la instalación del SO, ya est
 ## 2.Instalación de Java en el SO
 
 Una vez creada la máquina virtual, a continuación será necesaria la instalación de diversos softwares dentro de la misma que nos permita compilar e interpretar un lenguaje de programación como Java. Para ello, en este caso se instalará Java a través de OpenJDK. Para ello habrá que seguir los pasos que se detallaran con los siguientes puntos.
-##2.1 Instalación de Java en Ubuntu desde el repositorio
+
+### 2.1 Instalación de Java en Ubuntu desde el repositorio
 Para ello se abrirá el terminal desde dentro de la máquina virtual a través del conjunto de teclas CTRL+ALT+T.
 Una vez abierto el terminal se procederá a actualizar el sistema a través del comando (Fig.5):
 
@@ -53,7 +54,7 @@ Una vez hecho esto se habrá instalado la versión por defecto de java, es decir
 
 Hay que tener en cuenta el hecho de que algunos comandos  pedirán la contraseña del usuario, por lo que es muy importante recordar esta.
 
-### 2.1 Instalación de una versión específica de Java
+### 2.2 Instalación de una versión específica de Java
 
 Una vez instalado Java y comprobada la versión (11.0.11 en este caso), será necesario conocer cómo instalar otras versiones del mismo. Para ello se utilizará el comando:
 
@@ -79,7 +80,7 @@ No obstante, aunque se ha instalado correctamente la versión 8 de Java, al intr
 
 La resolución de este problema se hará en el siguiente punto.
 
-### 2.2 Configuración de las variables de entorno
+### 2.3 Configuración de las variables de entorno
 
 A continuación se deberán de actualizar las variables de entorno. Para ello en primer lugar será necesario conocer qué versiones de OpenJDK se han descargado en el sistema, esto se podrá conocer utilizando el comando:
 
