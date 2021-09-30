@@ -41,5 +41,6 @@ Terminada la actualización, se podrá proceder a la instalación de Java a trav
 **<p align="center"> sudo apt-get install default-jdk  </p>**
 
 
-
+![Figura.7. Ventana del terminal con comando para instalar Java por defecto.[Elaboración propia]
+](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/default-jdk.png)
 
