@@ -99,6 +99,9 @@ Por último se selecciona el valor correspondiente a la versión y se comprueba 
 ![Figura.16. Elección de la versión de OpenJDK y comprobación de la versión instalada.[Elaboración propia]
 ](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/13..png)
 
+Una vez terminado todos los pasos ya estará pues instalado Java en la versión que se desee utilizar.
+
+
 
  
  
