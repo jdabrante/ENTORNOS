@@ -35,6 +35,10 @@ Una vez introducido el comando se iniciará la actualización como bien se muest
 ![Figura.6. Actualización del sistema completado a través del terminal.[Elaboración propia]
 ](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/5..png)
 
+Terminada la actualización, se podrá proceder a la instalación de Java a través del JDK. Para ello se utilizará el comando (Fig.7):
+
+
+**<p align="center"> sudo apt-get install default-jdk  </p>**
 
 
 
