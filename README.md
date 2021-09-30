@@ -53,7 +53,7 @@ Una vez hecho esto se habrá instalado la versión por defecto de java, es decir
 
 Hay que tener en cuenta el hecho de que algunos comandos  pedirán la contraseña del usuario, por lo que es muy importante recordar esta.
 
-## 2.2 Instalación de una versión específica de Java
+### 2.1 Instalación de una versión específica de Java
 
 Una vez instalado Java y comprobada la versión (11.0.11 en este caso), será necesario conocer cómo instalar otras versiones del mismo. Para ello se utilizará el comando:
 
@@ -79,7 +79,7 @@ No obstante, aunque se ha instalado correctamente la versión 8 de Java, al intr
 
 La resolución de este problema se hará en el siguiente punto.
 
-# 3.Configuración de las variables de entorno
+### 2.2 Configuración de las variables de entorno
 
 A continuación se deberán de actualizar las variables de entorno. Para ello en primer lugar será necesario conocer qué versiones de OpenJDK se han descargado en el sistema, esto se podrá conocer utilizando el comando:
 
@@ -87,6 +87,19 @@ A continuación se deberán de actualizar las variables de entorno. Para ello en
 
 ![Figura.14. Ventana del terminal donde se reflejan las versiones de OpenJDK disponibles
  en el sistema.[Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/11..png)
+ 
+ Así pues, para elegir la versión que se desea se podrá utilizar el comando:
+
+**<p align="center"> sudo update-alternatives --config java </p>**
+
+![Figura.15. Opciones de versión de OpenJDK.[Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/12..png)
+
+Por último se selecciona el valor correspondiente a la versión y se comprueba con el comando java --version.
+
+![Figura.16. Elección de la versión de OpenJDK y comprobación de la versión instalada.[Elaboración propia]
+](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/13..png)
+
+
  
  
 
