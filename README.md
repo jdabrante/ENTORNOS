@@ -30,6 +30,10 @@ Una vez abierto el terminal se procederá a actualizar el sistema a través del 
 
 Una vez introducido el comando se iniciará la actualización como bien se muestra en la figura 6.
 
+[Figura.5.Ventana del terminal con el comando correspondiente para la actualización del sistema. [Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/4..png)
+
+[](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/
+
 
 
 
