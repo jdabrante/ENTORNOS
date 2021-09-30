@@ -49,7 +49,7 @@ Terminada la actualización, se podrá proceder a la instalación de Java a trav
 Una vez hecho esto se habrá instalado la versión por defecto de java, es decir, la última versión. Esto se podrá comprobar con el siguiente comando (Fig. 9), observando así además en la siguiente figura que la última en ese caso es la 11.0.11:
 
 ![Figura.9. Ventana del terminal con comando para comprobar la versión de java.[Elaboración propia].
-](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/java-version)
+](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/java-version.png)
 
 Hay que tener en cuenta el hecho de que algunos comandos  pedirán la contraseña del usuario, por lo que es muy importante recordar esta.
 
