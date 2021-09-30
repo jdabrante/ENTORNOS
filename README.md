@@ -74,3 +74,19 @@ Se puede apreciar como en la instalación de Java 9 se produce un error (se resa
 
 No obstante, aunque se ha instalado correctamente la versión 8 de Java, al introducir el comando java --version , seguirá apareciendo la versión 11 como bien se observa en la siguiente imagen.
 
+![Figura.13. Ventana donde se muestra la versión de Java 11 aún habiendo instalado Java 8.[Elaboración propia]
+](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/10..png)
+
+La resolución de este problema se hará en el siguiente punto.
+
+# 3.Configuración de las variables de entorno
+
+A continuación se deberán de actualizar las variables de entorno. Para ello en primer lugar será necesario conocer qué versiones de OpenJDK se han descargado en el sistema, esto se podrá conocer utilizando el comando:
+
+**<p align="center"> ls /usr/lib/jvm </p>**
+
+![Figura.14. Ventana del terminal donde se reflejan las versiones de OpenJDK disponibles
+ en el sistema.[Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/11..png)
+ 
+ 
+
