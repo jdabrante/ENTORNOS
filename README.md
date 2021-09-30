@@ -44,3 +44,10 @@ Terminada la actualización, se podrá proceder a la instalación de Java a trav
 ![Figura.7. Ventana del terminal con comando para instalar Java por defecto.[Elaboración propia]
 ](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/default-jdk.png)
 
+![Figura.8. Ventana del terminal donde se refleja la instalación completa de Java.[Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/6..png)
+
+Una vez hecho esto se habrá instalado la versión por defecto de java, es decir, la última versión. Esto se podrá comprobar con el siguiente comando (Fig. 9), observando así además en la siguiente figura que la última en ese caso es la 11.0.11:
+
+
+
+
