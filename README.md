@@ -6,6 +6,7 @@ Una máquina virtual es, en esencia, un software encargado de emular, en este ca
 Así pues, a continuación se explicará, grosso modo, la instalación de una máquina virtual así como de el Sistema Operativo (SO) necesario para su funcionamiento
 
 En primer lugar se deberá de descargar el programa VirtualBox (la versión más actual, en este caso será la 6.1) desde la página oficial de Oracle VM VirtualBOX.
+
 ![Figura.1.Página de descarga de VirtualBox. [Elaboración propia]](https://raw.githubusercontent.com/jdabrante/INFORME-N-1/DAW/1.png "Figura.1.Página de descarga de VirtualBox. [Elaboración propia]") 
 
 Una vez instalado el programa en el ordenador se procederá a la creación de la máquina virtual con el  Sistema Operativo (SO) correspondiente (en este caso Ubuntu 20 como bien se muestra en la figura 2).
